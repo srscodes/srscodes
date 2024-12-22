@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheershaikh-codes&show_icons=true&locale=en&layout=compact" alt="zarel-blessed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zarel-blessed&" alt="zarel-blessed" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheershaikh-codes&" alt="zarel-blessed" /></p>
