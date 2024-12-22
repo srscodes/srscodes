@@ -1,9 +1,9 @@
-<h1 align="center">Hi, My name is Shaheer Shaikh <img src="https://raw.githubusercontent.com/shaheershaikh-codes/shaheershaikh-codes/main/charmender.gif" width="40" height="40" /></h1>
+<h1 align="center">Hi, My name is Shaheer Shaikh   <img src="https://raw.githubusercontent.com/shaheershaikh-codes/shaheershaikh-codes/main/charmender.gif" width="40" height="40" /></h1>
 <h3 align="center">A passionate frontend developer and Go programmer from India. I always try to implement something useful from what I learn in tech, because I love computers!</h3>
 
 ###
 
-<img src="https://raw.githubusercontent.com/shaheershaikh-codes/shaheershaikh-codes/main/welcome.gif" width="300" height="300" />
+<img src="https://raw.githubusercontent.com/shaheershaikh-codes/shaheershaikh-codes/main/welcome.gif" width="400" height="300" />
 
 ###
 
