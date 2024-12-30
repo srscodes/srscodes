@@ -53,6 +53,6 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheershaikh-codes&show_icons=true&locale=en&layout=compact" alt="shaheershaikh-codes" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srscodes&show_icons=true&locale=en&layout=compact" alt="shaheershaikh-codes" /></p>
 
 ###
