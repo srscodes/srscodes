@@ -49,7 +49,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/shaheershaikh-codes/shaheershaikh-codes/main/codingchik.gif" width="400" height="300" />
+<img src="https://raw.githubusercontent.com/shaheershaikh-codes/shaheershaikh-codes/main/codingchik.gif" width="400" height="240" />
 
 ###
 
